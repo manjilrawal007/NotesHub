@@ -1,4 +1,4 @@
-#React with Vite
+# React with Vite
 
 This template offers a streamlined configuration to integrate React with Vite, featuring Hot Module Replacement (HMR) and pre-configured ESLint rules for code quality.
 
