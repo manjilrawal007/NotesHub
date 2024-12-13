@@ -4,5 +4,5 @@ This template offers a streamlined configuration to integrate React with Vite, f
 
 Currently, two official plugins are supported:
 
-@vitejs/plugin-react: Utilizes Babel to enable Fast Refresh.
-@vitejs/plugin-react-swc: Leverages SWC for Fast Refresh
+(@vitejs/plugin-react): Utilizes Babel to enable Fast Refresh.
+(@vitejs/plugin-react-swc): Leverages SWC for Fast Refresh
